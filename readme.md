@@ -100,4 +100,4 @@ dependencies:
 - Feature engineering using sklearn's PolynomialFeatures.
 - xgboost, lightgbm, catboost, laso, Ridge model did not learn well
 
-By following this README, you should be able to set up and run the notebook smoothly. If you encounter any issues, please refer to the troubleshooting section or reach out for support.For any issues, suggestions, or queries, contact the maintainers at [musamuhammadtukur127@gmail.com] [edifonemmanuel14@gmail.com] [hussainkhasamwala23@gmail.com] [agboolayusuf2018@gmail.com] 
+By following this README, you should be able to set up and run the notebook smoothly. If you encounter any issues, please refer to the troubleshooting section or reach out for support.For any issues, suggestions, or queries, contact the maintainers at [edifonemmanuel14@gmail.com] [musamuhammadtukur127@gmail.com] [hussainkhasamwala23@gmail.com] [agboolayusuf2018@gmail.com] 
