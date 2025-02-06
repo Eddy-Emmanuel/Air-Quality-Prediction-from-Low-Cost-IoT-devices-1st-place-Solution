@@ -32,8 +32,8 @@ dependencies:
 
 ### Hardware Requirements
 - *Local Machine*: 
-  -  2-8GB RAM 
-  - 4-core CPU
+  -  16-8GB RAM 
+  - 7-core CPU
   - GPU (optional but recommended for faster training, especially with xgboost, lightgbm, and catboost)
 - *Google Colab*: 
   - The notebook can also be run on Google Colab with a GPU runtime for faster execution.
